@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Colonel Book</string>
+    <string name="button">Search</string>
+    <string name="self_destruct">Self-Destruct</string>
+    <string name="hello_nikky">Hello Nikky</string>
+    <string name="hint">Title and/or Author</string>
+    <string name="share">Share</string>
+    <string name="textview">Search for Books!</string>
+</resources>
